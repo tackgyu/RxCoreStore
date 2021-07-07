@@ -7,7 +7,7 @@
 //
 
 import XCTest
-
+import RxSwift
 @testable import CoreStore
 @testable import RxCoreStore
 
